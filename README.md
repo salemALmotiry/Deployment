@@ -27,4 +27,4 @@ Use the following sample data to test the registration endpoint:
   username : "user1234",
   password : "secureP@ss"
 
-```
+
