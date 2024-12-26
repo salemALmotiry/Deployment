@@ -1,6 +1,5 @@
 # Deployment
 
-The Bank System project has been successfully deployed on AWS Elastic Beanstalk, providing seamless and scalable access to its features. Below are the deployment details:
 
 ### Base URL
 http://bank-system-env.eba-85p6pris.eu-central-1.elasticbeanstalk.com
