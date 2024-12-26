@@ -18,3 +18,13 @@ Use the following sample data to test the registration endpoint:
   "email": "johndjo7e658@example.com",
   "phoneNumber": "0558865679"
 }
+```
+
+
+### Admin account 
+```json
+
+  username : "user1234",
+  password : "secureP@ss"
+
+```
